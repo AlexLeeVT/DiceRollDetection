@@ -163,5 +163,7 @@ cython_debug/
 
 # custom set
 dataset-images/
+datasets/
 images/
+runs/
 *.pt
